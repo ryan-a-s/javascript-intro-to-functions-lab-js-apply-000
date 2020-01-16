@@ -10,7 +10,9 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-function sayHiToGrandma(whisper)
+function sayHiToGrandma(string) {
+  if 
+}
   
 
 function sayHiToGrandma()
